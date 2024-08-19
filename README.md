@@ -31,4 +31,16 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip 
 
 Öncelikle, projeyi GitHub'dan klonlayın:
 ```bash
-git clone https://github.com/burcakbilir/ecommerce-store-with-mui.git
+git clone https://github.com/burcakbilir/ecommerce-store-with-mui.git```
+
+
+### 2. Proje Dizinine Gidin
+
+Öncelikle, projeyi GitHub'dan klonlayın:
+```bash
+git clone https://github.com/burcakbilir/ecommerce-store-with-mui.git```
+
+
+
+
+
