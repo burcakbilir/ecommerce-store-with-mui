@@ -29,7 +29,7 @@ https://ecommerce-store-with-mui.netlify.app/
   ## Özellikler
 
 - **Gelişmiş Filtreleme:** Kategori ve fiyat aralığı gibi kriterlere göre ürünleri filtreleyin.
-- **Sepet Yönetimi:** Ürünleri sepete veya favori listesine ekleyin.
+- **Sepet Yönetimi:** Ürünleri sepete veya favori listesine ekleyin. (Products Page kısmında gerçekleştirilmelidir.)
 - **Dinamik Ürün Güncellemeleri:** Filtreleme ve sıralama seçenekleriyle ürün listelerini dinamik olarak güncelleyin.
 - **Sıralama:** Ürünleri azalan/artan fiyat kriterine göre sıralayın.
 - **Sayfalama:** Ürünleri sayfalandırarak görüntüleyin.
